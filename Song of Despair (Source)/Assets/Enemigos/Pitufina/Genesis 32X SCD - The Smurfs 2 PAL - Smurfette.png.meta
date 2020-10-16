@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: daa6d44ccd4cd114e97a44a0b1f7472f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 246967986998073049
+    second: Genesis 32X SCD - The Smurfs 2 PAL - Smurfette_0
+  - first:
+      213: 2674347330902275814
+    second: Genesis 32X SCD - The Smurfs 2 PAL - Smurfette_1
+  - first:
+      213: -1270777255357734065
+    second: Genesis 32X SCD - The Smurfs 2 PAL - Smurfette_2
+  - first:
+      213: 74674141796508539
+    second: Genesis 32X SCD - The Smurfs 2 PAL - Smurfette_3
+  - first:
+      213: 2683846276205451095
+    second: Genesis 32X SCD - The Smurfs 2 PAL - Smurfette_4
+  - first:
+      213: -3715623761364315539
+    second: Genesis 32X SCD - The Smurfs 2 PAL - Smurfette_5
+  - first:
+      213: -2670384236557692093
+    second: Genesis 32X SCD - The Smurfs 2 PAL - Smurfette_6
+  - first:
+      213: 8152024384239384614
+    second: Genesis 32X SCD - The Smurfs 2 PAL - Smurfette_7
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Smurfs 2 PAL - Smurfette_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5562801a3118d114a91ac6c7fc3050ac
+      internalID: 246967986998073049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Smurfs 2 PAL - Smurfette_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 4
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a38bd0c6eda1d48b269c02ce916205
+      internalID: 2674347330902275814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Smurfs 2 PAL - Smurfette_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 5
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8931dbb3b33548743a8018270dc59465
+      internalID: -1270777255357734065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Smurfs 2 PAL - Smurfette_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 3
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dcaeab05933854bb12a14f281de93f
+      internalID: 74674141796508539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Smurfs 2 PAL - Smurfette_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17ab7586b6182142840052924f301ff
+      internalID: 2683846276205451095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Smurfs 2 PAL - Smurfette_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993e3c7ec3327e447b3ae2b1f4e18fdc
+      internalID: -3715623761364315539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Smurfs 2 PAL - Smurfette_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb48d8d8dbc2354bb34fef65ea10a3e
+      internalID: -2670384236557692093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - The Smurfs 2 PAL - Smurfette_7
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa7e087435bb7b46bd6cf9e7074a38b
+      internalID: 8152024384239384614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

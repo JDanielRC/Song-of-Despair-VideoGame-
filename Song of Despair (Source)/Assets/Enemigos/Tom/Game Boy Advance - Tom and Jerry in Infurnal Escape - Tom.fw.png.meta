@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 88b1a038b2e208d45884002044d76d54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3759263475349958925
+    second: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_0
+  - first:
+      213: -5835106805507227907
+    second: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_1
+  - first:
+      213: -1529217627034269129
+    second: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_2
+  - first:
+      213: -6127271407412163026
+    second: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_3
+  - first:
+      213: 7027516511129687431
+    second: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_4
+  - first:
+      213: 748507852994573171
+    second: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_5
+  - first:
+      213: -740771209143215285
+    second: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_6
+  - first:
+      213: 1592200937140100225
+    second: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_7
+  - first:
+      213: 1724729014266965600
+    second: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_8
+  - first:
+      213: -6612465553206071010
+    second: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_9
+  - first:
+      213: 8005073284164638371
+    second: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_10
+  - first:
+      213: 893871859624087115
+    second: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_11
+  - first:
+      213: 2078905892350019602
+    second: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_12
+  - first:
+      213: 99288849473893904
+    second: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_13
+  - first:
+      213: 5212366007845765992
+    second: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_14
+  - first:
+      213: 8559323815694775609
+    second: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_15
+  - first:
+      213: -3408962595146561615
+    second: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_16
+  - first:
+      213: -6577654998044156237
+    second: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_17
+  - first:
+      213: 5115791927600990512
+    second: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 160
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3c88ac0351e5745b64e87f910eba81
+      internalID: 3759263475349958925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 161
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd1cf64848b65e4ca6a685f65c40667
+      internalID: -5835106805507227907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 164
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb84ef06ebcbcf440a1768c6fc1cf2e3
+      internalID: -1529217627034269129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 161
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c21a0a34c5ee954abd38293b0fe0427
+      internalID: -6127271407412163026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 162
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35326586104730945bb8f490f042adc5
+      internalID: 7027516511129687431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 163
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a94faaf54368341bb9dd610a3146fb
+      internalID: 748507852994573171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 164
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c65264ee4ea7644c8abed1f62f0239a
+      internalID: -740771209143215285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 89
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3591181bdc402a40a7e668382357b94
+      internalID: 1592200937140100225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 88
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4385dd3c9746a4d86ec58d5cd15fbc
+      internalID: 1724729014266965600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 92
+        width: 53
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66517518a042784b8694090ec64e6a8
+      internalID: -6612465553206071010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 93
+        width: 65
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18a0c0a64bce07478d90afa18098b83
+      internalID: 8005073284164638371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_11
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 93
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1325daafcd8a45145914262771e07d4e
+      internalID: 893871859624087115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_12
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 90
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b3683a1ebcdd84ab4196ecbe2f42ee
+      internalID: 2078905892350019602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726558254176a564eb7046cb28d0d5b1
+      internalID: 99288849473893904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 45
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3e55eaeed6d4840b786a692fa49973
+      internalID: 5212366007845765992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 44
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7d7eb20f13d9a4e8e14d753cc16460
+      internalID: 8559323815694775609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 45
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9c5c13acdfcff4dba4c9b4fa3f943a
+      internalID: -3408962595146561615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 44
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76775208d02fa084e9f896535243b639
+      internalID: -6577654998044156237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Tom and Jerry in Infurnal Escape - Tom.fw_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 69
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1caef8113c0e084382c72b85b5df055
+      internalID: 5115791927600990512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

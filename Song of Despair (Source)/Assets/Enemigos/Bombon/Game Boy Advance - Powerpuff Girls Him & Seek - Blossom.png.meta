@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 9fd132a8e97fcce40983b4cc43efff23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5144325742890629683
+    second: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_0
+  - first:
+      213: 4701927094877920280
+    second: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_1
+  - first:
+      213: -2223257264265947990
+    second: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_2
+  - first:
+      213: 2445235930499511998
+    second: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_3
+  - first:
+      213: -4478879161756984479
+    second: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_4
+  - first:
+      213: 6944785797933412468
+    second: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_5
+  - first:
+      213: -3723430810672832057
+    second: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_6
+  - first:
+      213: 1350202137473860828
+    second: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_7
+  - first:
+      213: 8245756353036816199
+    second: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_8
+  - first:
+      213: 6010571857528608310
+    second: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_9
+  - first:
+      213: 8733323530948301972
+    second: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_10
+  - first:
+      213: 6855185993087821226
+    second: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_11
+  - first:
+      213: 3115599249231963709
+    second: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_12
+  - first:
+      213: -6866389721260017509
+    second: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_13
+  - first:
+      213: -4862890081214627957
+    second: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_14
+  - first:
+      213: -6732834518540041620
+    second: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_15
+  - first:
+      213: -1285036756096781794
+    second: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_16
+  - first:
+      213: 2082046685629419766
+    second: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_17
+  - first:
+      213: -2377636887163697249
+    second: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_18
+  - first:
+      213: 1688001853487548785
+    second: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_19
+  - first:
+      213: 5624817330705368289
+    second: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 110
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dffb21a113bada4ab517a2bfc1743e6
+      internalID: 5144325742890629683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 110
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d362dd2ae864f40a02fd48675b3a0e
+      internalID: 4701927094877920280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 110
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab6d3e90eb6cb84288518851d584ce5
+      internalID: -2223257264265947990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 110
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067da1e98f35e1a499853a08e1e4c2c3
+      internalID: 2445235930499511998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 110
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340af9d75141b9840bfd5d9a0411a9fa
+      internalID: -4478879161756984479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 110
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18adfe28c55f28a428edb3d5731a8f3a
+      internalID: 6944785797933412468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 49
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe2387de10aeae4bb968ba496eb3278
+      internalID: -3723430810672832057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 49
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa26a4edd77e4344b6f2fae149578e5
+      internalID: 1350202137473860828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 49
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537da470685590b44a561ff9a5cc2987
+      internalID: 8245756353036816199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 49
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b56796c6fa5ce4459655e0b9b7bb568
+      internalID: 6010571857528608310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 49
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f60a1a0b508706419d3489ab6993812
+      internalID: 8733323530948301972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_11
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 49
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58801055488da3f4ca849865446d1954
+      internalID: 6855185993087821226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_12
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 49
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778efd6ca44493144b2d646e41e4ad2d
+      internalID: 3115599249231963709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_13
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 49
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a66b96c3055c84f8f8ae1a31731f88
+      internalID: -6866389721260017509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 49
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594928281f5c945418f1cc618f611623
+      internalID: -4862890081214627957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c4de042820eb04996aa955f9eabd47
+      internalID: -6732834518540041620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_16
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9c80fd89d52dd42b0a8e6717a7b476
+      internalID: -1285036756096781794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a46c3ccd9a36e4fb167745d45705d0
+      internalID: 2082046685629419766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc509ff99f9279b41b0621a439dc7918
+      internalID: -2377636887163697249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2cb4c3947453a40b63c3730cc70ac9
+      internalID: 1688001853487548785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Powerpuff Girls Him & Seek - Blossom_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cef46391b43ba458c09f83767d89d8
+      internalID: 5624817330705368289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

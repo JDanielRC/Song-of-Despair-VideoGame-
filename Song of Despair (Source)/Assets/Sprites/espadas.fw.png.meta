@@ -1,0 +1,3943 @@
+fileFormatVersion: 2
+guid: f79665f9ed4c2a24894eab6f5a328969
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6266565179540487624
+    second: espadas.fw_0
+  - first:
+      213: 4250521425340210797
+    second: espadas.fw_1
+  - first:
+      213: 2606060743611770206
+    second: espadas.fw_2
+  - first:
+      213: -8254358466986946388
+    second: espadas.fw_3
+  - first:
+      213: 601405719497497507
+    second: espadas.fw_4
+  - first:
+      213: 6393165489446168492
+    second: espadas.fw_5
+  - first:
+      213: 6522137280438546723
+    second: espadas.fw_6
+  - first:
+      213: 7511357570451893230
+    second: espadas.fw_7
+  - first:
+      213: -3757206633885016042
+    second: espadas.fw_8
+  - first:
+      213: 4258211185288947654
+    second: espadas.fw_9
+  - first:
+      213: -894481485582198650
+    second: espadas.fw_10
+  - first:
+      213: 8101697611004340317
+    second: espadas.fw_11
+  - first:
+      213: -2135035820976711668
+    second: espadas.fw_12
+  - first:
+      213: -4283230335844705767
+    second: espadas.fw_13
+  - first:
+      213: 7001283793052393945
+    second: espadas.fw_14
+  - first:
+      213: 2644728593377890731
+    second: espadas.fw_15
+  - first:
+      213: 4737895478474960532
+    second: espadas.fw_16
+  - first:
+      213: 8274038254870401688
+    second: espadas.fw_17
+  - first:
+      213: 2702660470649888211
+    second: espadas.fw_18
+  - first:
+      213: -7484588500911284463
+    second: espadas.fw_19
+  - first:
+      213: 6265108288877222432
+    second: espadas.fw_20
+  - first:
+      213: 4674252606226457268
+    second: espadas.fw_21
+  - first:
+      213: -7036002981442458404
+    second: espadas.fw_22
+  - first:
+      213: 8106758437183796050
+    second: espadas.fw_23
+  - first:
+      213: 7444669324810943601
+    second: espadas.fw_24
+  - first:
+      213: 3501546947191891624
+    second: espadas.fw_25
+  - first:
+      213: 3743698177510603518
+    second: espadas.fw_26
+  - first:
+      213: 4550828699835858811
+    second: espadas.fw_27
+  - first:
+      213: -7639385504269497564
+    second: espadas.fw_28
+  - first:
+      213: 8090461007319146593
+    second: espadas.fw_29
+  - first:
+      213: -5799496186163184889
+    second: espadas.fw_30
+  - first:
+      213: 4906380234335553135
+    second: espadas.fw_31
+  - first:
+      213: 6888804956837900916
+    second: espadas.fw_32
+  - first:
+      213: -8553209764262783817
+    second: espadas.fw_33
+  - first:
+      213: -1762965687425172650
+    second: espadas.fw_34
+  - first:
+      213: 3806692999972288425
+    second: espadas.fw_35
+  - first:
+      213: 564272278006013242
+    second: espadas.fw_36
+  - first:
+      213: -8314016914766472425
+    second: espadas.fw_37
+  - first:
+      213: -2880132234757627692
+    second: espadas.fw_38
+  - first:
+      213: -532498209312555009
+    second: espadas.fw_39
+  - first:
+      213: 461141510671960876
+    second: espadas.fw_40
+  - first:
+      213: -2947194996014135455
+    second: espadas.fw_41
+  - first:
+      213: -7730405001700506385
+    second: espadas.fw_42
+  - first:
+      213: -8439043946776115325
+    second: espadas.fw_43
+  - first:
+      213: -6360057940460306859
+    second: espadas.fw_44
+  - first:
+      213: -4691279717649863743
+    second: espadas.fw_45
+  - first:
+      213: -7334110144229237089
+    second: espadas.fw_46
+  - first:
+      213: 515735004050142275
+    second: espadas.fw_47
+  - first:
+      213: 9175664745765660052
+    second: espadas.fw_48
+  - first:
+      213: 86205926392835063
+    second: espadas.fw_49
+  - first:
+      213: -845484830456840894
+    second: espadas.fw_50
+  - first:
+      213: 8318916677369426304
+    second: espadas.fw_51
+  - first:
+      213: 8834249275837555353
+    second: espadas.fw_52
+  - first:
+      213: -6845769430534156457
+    second: espadas.fw_53
+  - first:
+      213: 2698025414267913689
+    second: espadas.fw_54
+  - first:
+      213: 6161625069959492154
+    second: espadas.fw_55
+  - first:
+      213: -455772612482754399
+    second: espadas.fw_56
+  - first:
+      213: 8541113582233586751
+    second: espadas.fw_57
+  - first:
+      213: 4131687660812528376
+    second: espadas.fw_58
+  - first:
+      213: -5227958412688893373
+    second: espadas.fw_59
+  - first:
+      213: -2459962451341241019
+    second: espadas.fw_60
+  - first:
+      213: 8976441925945249656
+    second: espadas.fw_61
+  - first:
+      213: -4645143106316824619
+    second: espadas.fw_62
+  - first:
+      213: -2403364834343573763
+    second: espadas.fw_63
+  - first:
+      213: 7949026056744710203
+    second: espadas.fw_64
+  - first:
+      213: -6930311478979852024
+    second: espadas.fw_65
+  - first:
+      213: -4289462643196538940
+    second: espadas.fw_66
+  - first:
+      213: -7850899918159610185
+    second: espadas.fw_67
+  - first:
+      213: 3063652124056352073
+    second: espadas.fw_68
+  - first:
+      213: -9162364883249981399
+    second: espadas.fw_69
+  - first:
+      213: 890499624554402578
+    second: espadas.fw_70
+  - first:
+      213: 1539795276854561088
+    second: espadas.fw_71
+  - first:
+      213: 5638442624327143964
+    second: espadas.fw_72
+  - first:
+      213: -5279747529209129707
+    second: espadas.fw_73
+  - first:
+      213: -8562644496144951082
+    second: espadas.fw_74
+  - first:
+      213: -882698375886716724
+    second: espadas.fw_75
+  - first:
+      213: -5801079806793107134
+    second: espadas.fw_76
+  - first:
+      213: 7072536520210562991
+    second: espadas.fw_77
+  - first:
+      213: 7811320485742852707
+    second: espadas.fw_78
+  - first:
+      213: -7821571419909738986
+    second: espadas.fw_79
+  - first:
+      213: -1275771683477247813
+    second: espadas.fw_80
+  - first:
+      213: -4581941724290753141
+    second: espadas.fw_81
+  - first:
+      213: -8502312048000352841
+    second: espadas.fw_82
+  - first:
+      213: 4180012892735288624
+    second: espadas.fw_83
+  - first:
+      213: -8088193039817250329
+    second: espadas.fw_84
+  - first:
+      213: 8258527813576168355
+    second: espadas.fw_85
+  - first:
+      213: 9109008974832533982
+    second: espadas.fw_86
+  - first:
+      213: 5431949511216602582
+    second: espadas.fw_87
+  - first:
+      213: 934242025655658019
+    second: espadas.fw_88
+  - first:
+      213: -5849469271948731262
+    second: espadas.fw_89
+  - first:
+      213: -5773990026050700546
+    second: espadas.fw_90
+  - first:
+      213: -1834671553967204293
+    second: espadas.fw_91
+  - first:
+      213: -815125652729291253
+    second: espadas.fw_92
+  - first:
+      213: 6597817241329095569
+    second: espadas.fw_93
+  - first:
+      213: -5431760905025882875
+    second: espadas.fw_94
+  - first:
+      213: 8470234898696048130
+    second: espadas.fw_95
+  - first:
+      213: 5660164119422185003
+    second: espadas.fw_96
+  - first:
+      213: 5871710354192575732
+    second: espadas.fw_97
+  - first:
+      213: 8886447922089779897
+    second: espadas.fw_98
+  - first:
+      213: 2038824938995648475
+    second: espadas.fw_99
+  - first:
+      213: -3425277878266320481
+    second: espadas.fw_100
+  - first:
+      213: -6876609371687565731
+    second: espadas.fw_101
+  - first:
+      213: 3252702634301807496
+    second: espadas.fw_102
+  - first:
+      213: 6297092367650334820
+    second: espadas.fw_103
+  - first:
+      213: -2211172482375982158
+    second: espadas.fw_104
+  - first:
+      213: -5660676445616683369
+    second: espadas.fw_105
+  - first:
+      213: -5905652814408497116
+    second: espadas.fw_106
+  - first:
+      213: 3197325506725718958
+    second: espadas.fw_107
+  - first:
+      213: 534965600471842918
+    second: espadas.fw_108
+  - first:
+      213: -4063819511761696730
+    second: espadas.fw_109
+  - first:
+      213: -8135221629137869560
+    second: espadas.fw_110
+  - first:
+      213: 2906745901672659029
+    second: espadas.fw_111
+  - first:
+      213: -9111114492647189904
+    second: espadas.fw_112
+  - first:
+      213: -3683337341818289567
+    second: espadas.fw_113
+  - first:
+      213: -7035432680509969017
+    second: espadas.fw_114
+  - first:
+      213: -1264351068604199354
+    second: espadas.fw_115
+  - first:
+      213: 1343805866974708518
+    second: espadas.fw_116
+  - first:
+      213: -5432858423973031370
+    second: espadas.fw_117
+  - first:
+      213: 5802322083666138532
+    second: espadas.fw_118
+  - first:
+      213: -4396240697746902958
+    second: espadas.fw_119
+  - first:
+      213: 6923918304667971542
+    second: espadas.fw_120
+  - first:
+      213: 4698141427611197094
+    second: espadas.fw_121
+  - first:
+      213: 6844043952746240219
+    second: espadas.fw_122
+  - first:
+      213: 9043459964204210429
+    second: espadas.fw_123
+  - first:
+      213: -3591442183380946046
+    second: espadas.fw_124
+  - first:
+      213: -5116563712916845799
+    second: espadas.fw_125
+  - first:
+      213: -7651058378530386599
+    second: espadas.fw_126
+  - first:
+      213: -5076451217586515630
+    second: espadas.fw_127
+  - first:
+      213: 2132688539292913986
+    second: espadas.fw_128
+  - first:
+      213: 456704422970958906
+    second: espadas.fw_129
+  - first:
+      213: 998996222685787208
+    second: espadas.fw_130
+  - first:
+      213: -1063963828498746038
+    second: espadas.fw_131
+  - first:
+      213: 4942212323743337930
+    second: espadas.fw_132
+  - first:
+      213: 1829543783182678773
+    second: espadas.fw_133
+  - first:
+      213: 8259598456218648576
+    second: espadas.fw_134
+  - first:
+      213: 5010976661253992310
+    second: espadas.fw_135
+  - first:
+      213: 1185031456378753440
+    second: espadas.fw_136
+  - first:
+      213: 8676203533360150591
+    second: espadas.fw_137
+  - first:
+      213: -1587469339353373308
+    second: espadas.fw_138
+  - first:
+      213: 3113482809768081844
+    second: espadas.fw_139
+  - first:
+      213: -5894712114469453723
+    second: espadas.fw_140
+  - first:
+      213: -3261375907058271561
+    second: espadas.fw_141
+  - first:
+      213: 2346993918535885683
+    second: espadas.fw_142
+  - first:
+      213: 143849640961553083
+    second: espadas.fw_143
+  - first:
+      213: -3379492316310280231
+    second: espadas.fw_144
+  - first:
+      213: 1474948799198657390
+    second: espadas.fw_145
+  - first:
+      213: -8874638002393705971
+    second: espadas.fw_146
+  - first:
+      213: -6229943228059593132
+    second: espadas.fw_147
+  - first:
+      213: 5953400307588087187
+    second: espadas.fw_148
+  - first:
+      213: 7013378590851365519
+    second: espadas.fw_149
+  - first:
+      213: -830179166344129105
+    second: espadas.fw_150
+  - first:
+      213: 5798348474538108313
+    second: espadas.fw_151
+  - first:
+      213: -1489164272104586360
+    second: espadas.fw_152
+  - first:
+      213: 9190963570627677040
+    second: espadas.fw_153
+  - first:
+      213: -8562164999163205823
+    second: espadas.fw_154
+  - first:
+      213: -1891609799534813843
+    second: espadas.fw_155
+  - first:
+      213: -4869703698704555839
+    second: espadas.fw_156
+  - first:
+      213: 8329469523225057804
+    second: espadas.fw_157
+  - first:
+      213: -3589560496051281140
+    second: espadas.fw_158
+  - first:
+      213: -9171329566307192099
+    second: espadas.fw_159
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: espadas.fw_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1229
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8231725adec93494494392d4cbc9c13c
+      internalID: -6266565179540487624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1209
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9916d067eb9007443b52a787cc3ecc6b
+      internalID: 4250521425340210797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1209
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc2efb5d65e55941b1808a626a42aa6
+      internalID: 2606060743611770206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1209
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381b0b4e51b3fae47b767c80c90eaad7
+      internalID: -8254358466986946388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1209
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8abe5587fcc5443b8c0df042a2bf25
+      internalID: 601405719497497507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1209
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d30e55ba0a7e74c8bf72de1816871d
+      internalID: 6393165489446168492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1209
+        width: 29
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d43b39cdd8468e4fbb14e2745f1869c
+      internalID: 6522137280438546723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1185
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401077a6c00de394596b21041171bc7b
+      internalID: 7511357570451893230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1160
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5013c4d2f0ec89e41bff2fff8c839266
+      internalID: -3757206633885016042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1135
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20e9d07dddf44547bb253201a45b9e8
+      internalID: 4258211185288947654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1135
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a73dff4c77c2d94b88e328a03cd441a
+      internalID: -894481485582198650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1135
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c55af020422654e817c9d4b8e6992c
+      internalID: 8101697611004340317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1135
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7713ffd31f7b8774cbd80bdea20d1f80
+      internalID: -2135035820976711668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1135
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8eeff62c7256f4ebe86d905218e6b0
+      internalID: -4283230335844705767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_14
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1135
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34c855f9fcf17c4c89994a30db15e53
+      internalID: 7001283793052393945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1114
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3ffafb98807ad4794d72e85c9c1295
+      internalID: 2644728593377890731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1091
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b50504f731f8b41abb7113a05eb3c0
+      internalID: 4737895478474960532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1091
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca049c3d2effb8544a60249a3bf84888
+      internalID: 8274038254870401688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1091
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58e3782f2f019244b765df12d688396
+      internalID: 2702660470649888211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_19
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1091
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9bd91e438f659449fd2025e24f85e9
+      internalID: -7484588500911284463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_20
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1091
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068ecb78cc0b7d349b28e2f7f3dfc728
+      internalID: 6265108288877222432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_21
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1091
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad290f4884102db45a5fbac629398c8b
+      internalID: 4674252606226457268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1064
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f56b528b258c4245b377f1f22913bea
+      internalID: -7036002981442458404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1037
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cfd51894c9ae541b17537f5f64405a
+      internalID: 8106758437183796050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_24
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1037
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b271d0af8bbf2f4f81313e330636052
+      internalID: 7444669324810943601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_25
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1037
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11eb5c02265d8024d94a5c177d9981fb
+      internalID: 3501546947191891624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_26
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1037
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76264a476d7e1854f81d09088627608f
+      internalID: 3743698177510603518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_27
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1037
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316f9a89bb668cd4db94f675a378e77d
+      internalID: 4550828699835858811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_28
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1037
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd43f2ee4e2cf3d4bb50a8f16af99266
+      internalID: -7639385504269497564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_29
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1037
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a246e5ea6aa723940ae18f83f95a4d42
+      internalID: 8090461007319146593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_30
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1037
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7df03885232028489ed0dc41b512988
+      internalID: -5799496186163184889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1014
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0f0d40984a5bb4c8003d2eb2b4032c
+      internalID: 4906380234335553135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 989
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fff1d89e9ee2d4aa2a09ea46484c5c
+      internalID: 6888804956837900916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_33
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 989
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb94146ba2648b4a83d56a7d91c120c
+      internalID: -8553209764262783817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_34
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 989
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00afe1841f65a864ea1952881fee7548
+      internalID: -1762965687425172650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 989
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45786b245a019b43be5e11e541ae292
+      internalID: 3806692999972288425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_36
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 989
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931de3ecf46463f45853a97b7823fffa
+      internalID: 564272278006013242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_37
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 989
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd4cb73fc25c844295d1ee6648d1821
+      internalID: -8314016914766472425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_38
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 989
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc76c12a2c50c4a41bd0f9fa77bf7ba0
+      internalID: -2880132234757627692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_39
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 989
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8538b73507579294ea0e8cea60262bdc
+      internalID: -532498209312555009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_40
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 989
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd00ff7f6051f5c44b36fc4bf51df308
+      internalID: 461141510671960876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_41
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 990
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd27f1ede8a0a3e41bb7751a7748a9a6
+      internalID: -2947194996014135455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 961
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b26bc5f90312874ca1ad3f2bc430995
+      internalID: -7730405001700506385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_43
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 931
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81020193827d1004c9bc3fdb0938eb99
+      internalID: -8439043946776115325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_44
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 931
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661c2c4e32d18d1489fe76c3d322664a
+      internalID: -6360057940460306859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_45
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 931
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476c14f45b896f24d85e38c9e2dd8356
+      internalID: -4691279717649863743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_46
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 931
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ede14d4fdd773943b81334f55994f03
+      internalID: -7334110144229237089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_47
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 931
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab16a700ca224040821e7f62e3f4098
+      internalID: 515735004050142275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 931
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70636f1860892741bde3b2c6269297d
+      internalID: 9175664745765660052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_49
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 931
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c22755779b4234e86dcf9780f14a21
+      internalID: 86205926392835063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_50
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 931
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10566df66711fc64f951591ce822fc3c
+      internalID: -845484830456840894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_51
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 898
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722e7a20198be7f418d2e34eba098efb
+      internalID: 8318916677369426304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_52
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 867
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bbba9b2ee7ad5408ea9e1ea824bbec
+      internalID: 8834249275837555353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_53
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 867
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8f188460e9ef4499230f507e93ee46
+      internalID: -6845769430534156457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_54
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 867
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ad3511dfb9f804986eac4d53c29dda
+      internalID: 2698025414267913689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_55
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 867
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c7300ae3edd394f9a7f0551acdaf13
+      internalID: 6161625069959492154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_56
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 867
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48339e62bc594147833b0a343228978
+      internalID: -455772612482754399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_57
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 867
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32adb0e3f8ec666469fba98e85dd969b
+      internalID: 8541113582233586751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_58
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 867
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa5d86b171e83849ba9f545ff68500a
+      internalID: 4131687660812528376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_59
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 867
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243fd55cd47f6164aaa948cc643015a1
+      internalID: -5227958412688893373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 834
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bae7bb45f3e134a828b37ac3622061
+      internalID: -2459962451341241019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_61
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 803
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ccb2538f51ed54d9a1d912e9362e70
+      internalID: 8976441925945249656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_62
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 803
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c30e8d88de5c3c4e9e9ce7e87a1799c
+      internalID: -4645143106316824619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_63
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 803
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fd0ade98ca0714f84e3ea535e222f2
+      internalID: -2403364834343573763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_64
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 803
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547732b2ac072ad4ea54ee1864b69d16
+      internalID: 7949026056744710203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_65
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 803
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16172f08a1550740a038e84491f7f1c
+      internalID: -6930311478979852024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_66
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 803
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815bb836b8f524444a430f26a1ce8b5b
+      internalID: -4289462643196538940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_67
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 803
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c729553f8b90b84e9138264f96ac587
+      internalID: -7850899918159610185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_68
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 803
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b810855f8e0b9149beb4cea2a0f922a
+      internalID: 3063652124056352073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_69
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 771
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ed5105f05209a4c9932d7af8a4a0f8
+      internalID: -9162364883249981399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_70
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 738
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f617e3ddee84b4b8f511c3f2a7de4b
+      internalID: 890499624554402578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_71
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 738
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcebdd9426b44542826dd833dac7a64
+      internalID: 1539795276854561088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_72
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 738
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e36887b5df8f747918e6d4277f08eb
+      internalID: 5638442624327143964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_73
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 738
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4e67491334446439d1fef85e329092
+      internalID: -5279747529209129707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_74
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 738
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6419d5c9d35a54bb99ef7224dcb5d5
+      internalID: -8562644496144951082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_75
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 738
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21f1cdf4f83b584a94a2c72aabd37c6
+      internalID: -882698375886716724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_76
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 738
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58eef1956cab87546b12183b1354e816
+      internalID: -5801079806793107134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_77
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 738
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120a1ae9a18d6bb4a84d67b268b8a87e
+      internalID: 7072536520210562991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_78
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 709
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d019982df37752d4794cb12d31d4d1e0
+      internalID: 7811320485742852707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_79
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 679
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff30bfb570465a47975349e3a0a6177
+      internalID: -7821571419909738986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_80
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 679
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e146cbc70e00e1c42b35f3310106f2a9
+      internalID: -1275771683477247813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_81
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 679
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3499a5aa3401f44cbc27a87d1416a7b
+      internalID: -4581941724290753141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_82
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 679
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9d6efbac3d1dd40ab31aca6c8cb03d
+      internalID: -8502312048000352841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_83
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 679
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bd16b4829696c4cb7410ab2643f20c
+      internalID: 4180012892735288624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_84
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 679
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e002ea9fe086584aac2a6a6ab785cd0
+      internalID: -8088193039817250329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_85
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 679
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc90fabec86f9be49b1a26d76318c14f
+      internalID: 8258527813576168355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_86
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 679
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff7754d122e31140ac2f49bc3ff3830
+      internalID: 9109008974832533982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_87
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 639
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a805948402d66b4683774137e609373
+      internalID: 5431949511216602582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_88
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 603
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1024b18ce6e1fc9449775719bec0ec52
+      internalID: 934242025655658019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_89
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 603
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c4352ddc7b7334ca6d5e1778a8513f
+      internalID: -5849469271948731262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_90
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 603
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a52d64eca232cf41a00e6966dfea31c
+      internalID: -5773990026050700546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_91
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 603
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bacd844667ef9e4ca3d3b464558afe8
+      internalID: -1834671553967204293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_92
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 603
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3f68c8b69ee91409a8cdb82513741b
+      internalID: -815125652729291253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_93
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 603
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9781a01ed4514c94d81dc2f2ad3423b0
+      internalID: 6597817241329095569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_94
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 603
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996f11430e83fb345b439534e9625d43
+      internalID: -5431760905025882875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_95
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 603
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6422bc9c73354c45bbe8d21fb34355e
+      internalID: 8470234898696048130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_96
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 570
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1ce32ee6e087046bf42c1d9b7253f2
+      internalID: 5660164119422185003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_97
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 570
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c2de96e140cdc4cb33405008d663d0
+      internalID: 5871710354192575732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_98
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 570
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51802eb8eae14943859355234f23106
+      internalID: 8886447922089779897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_99
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 570
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ec57139eb16ca409281e4414539ff0
+      internalID: 2038824938995648475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_100
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 570
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4935f4d58670d346b9d1f91bde09e2b
+      internalID: -3425277878266320481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_101
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 570
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def3e3c45f6be364c84bf309bc33e757
+      internalID: -6876609371687565731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 570
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18090504a50685f4c9d310ed199de451
+      internalID: 3252702634301807496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 570
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3be9eb1cefb5c4f943090957959a51
+      internalID: 6297092367650334820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_104
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 530
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaf16d759d24174ba5c7012c5a7f571
+      internalID: -2211172482375982158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_105
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 495
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54e9ecd1ce971a419ec1830a99c7a05
+      internalID: -5660676445616683369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_106
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 495
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819e501195e86ba49bdcdbd2ca7a7f8f
+      internalID: -5905652814408497116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_107
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 495
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2089d8a9f385626459396bdfe43bd946
+      internalID: 3197325506725718958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_108
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 495
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f0e3748387f1746a886b7186f3aaa2
+      internalID: 534965600471842918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_109
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 495
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e3f06847b588a449297c8ebf3a0b72
+      internalID: -4063819511761696730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_110
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 495
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fd997d2e036a643992960cd6a921ce
+      internalID: -8135221629137869560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_111
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 495
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4417a9f2eeb4854439b0d3e9cae2e244
+      internalID: 2906745901672659029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_112
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 495
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35db8a7042da26c44ab648eec3ef065b
+      internalID: -9111114492647189904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_113
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 457
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0139a19f457184091eb02b5e15f203
+      internalID: -3683337341818289567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_114
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 457
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c81cee0adf3de45ba86f924386fcad
+      internalID: -7035432680509969017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_115
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 457
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da0e0ca81bf97e489118c0afb3ca6c1
+      internalID: -1264351068604199354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_116
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 457
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4453a211ed69f2d4abc9468f4048b65c
+      internalID: 1343805866974708518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_117
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 457
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9993eabc10909948b4dbe7ffa773bb6
+      internalID: -5432858423973031370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_118
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 457
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc51e1fbd66edf841ac39848f7a5ce35
+      internalID: 5802322083666138532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_119
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 419
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86aebb8dd75c7c846aed6aba2af9964e
+      internalID: -4396240697746902958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_120
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 419
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb1c7739793aad4fa2cfa7a7c66b279
+      internalID: 6923918304667971542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_121
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 419
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66a332a8ca192249b4912a729fe2775
+      internalID: 4698141427611197094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_122
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 419
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433dfda0edc2a09418ae5ab4340cdb69
+      internalID: 6844043952746240219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_123
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 419
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68169299d3bdd114595b5b02be414930
+      internalID: 9043459964204210429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_124
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 419
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d56ec68d56bd94a81296ee63d58640
+      internalID: -3591442183380946046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_125
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 377
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91eb1b9713abb8e48bf880836ee9338a
+      internalID: -5116563712916845799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_126
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 338
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade1a753c0da5ab4b87b38e1e1987a04
+      internalID: -7651058378530386599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_127
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 338
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eda990c5c882e245ad81a3fb81fbaf4
+      internalID: -5076451217586515630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_128
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 338
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedd81c3ec224c14bba12856e94a4a44
+      internalID: 2132688539292913986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_129
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 338
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9d35854d5a1094087e1dfb509624a2
+      internalID: 456704422970958906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_130
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 338
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1456b6242c4fa9644831552d85c33c8e
+      internalID: 998996222685787208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_131
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 338
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097c8bba2bbe58c46b5406fe3ee15fc5
+      internalID: -1063963828498746038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_132
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 338
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694a0d5b7e1b6d545aeab6385df2c5d1
+      internalID: 4942212323743337930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_133
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 338
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd688dc4d6399e49a82e525405d25c3
+      internalID: 1829543783182678773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_134
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 290
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c85399ec84c7643b7e5168812dc896
+      internalID: 8259598456218648576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_135
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 252
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b31c92c4d38bd0468b0399ba4318b6e
+      internalID: 5010976661253992310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_136
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 252
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d34062b7680954b94b8954de981516
+      internalID: 1185031456378753440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_137
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 252
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c188d8ede309084e8f8dbd5e5d7df1c
+      internalID: 8676203533360150591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_138
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 252
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c133a67297fd09d4e84da7e0921f6249
+      internalID: -1587469339353373308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_139
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 252
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c236175840d03142a561bc9d4c295d6
+      internalID: 3113482809768081844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_140
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 252
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbb7cf32305fcf43954b089ff59366d
+      internalID: -5894712114469453723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_141
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 252
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412a63f3f198b1a4c842e50c96b0e97f
+      internalID: -3261375907058271561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_142
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 252
+        width: 47
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b971755e75459b74fb55c885c7ebbffe
+      internalID: 2346993918535885683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_143
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 214
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236b6105866760643891fa9cf9a8ac25
+      internalID: 143849640961553083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_144
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 177
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8975f5b8dc4af4a865efcb7c65c229
+      internalID: -3379492316310280231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_145
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 177
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d5c5147af571c4ea75ede73dd14a56
+      internalID: 1474948799198657390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_146
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 177
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ada0dcd5ff73044b5a114974d7deb1
+      internalID: -8874638002393705971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_147
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 177
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a7c6fd69be4174f88b649dd30e3a47
+      internalID: -6229943228059593132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_148
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 177
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18af2842bd5ff8f41a5c9fdbe165cca7
+      internalID: 5953400307588087187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_149
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 177
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf0b250632389e46b5f4cc1aa4a6106
+      internalID: 7013378590851365519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_150
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 177
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7c164ff4cd43545aeb97b1434f51a5
+      internalID: -830179166344129105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_151
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 139
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da96b8fffddb43f4c8d48c16fd2e8e4b
+      internalID: 5798348474538108313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_152
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 102
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda22e2ebead6aa46902f92172d467a6
+      internalID: -1489164272104586360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_153
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 102
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef582b218c4bb33499496c661d56595f
+      internalID: 9190963570627677040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_154
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 102
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df030c2c464fae547b2509af09e1c7d2
+      internalID: -8562164999163205823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_155
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 102
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f3c6f59a20e584c8d8be7c159cda25
+      internalID: -1891609799534813843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_156
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 102
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744959616f70c3842a34ae2da068cb58
+      internalID: -4869703698704555839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_157
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 102
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac70aa4f5d2a9f479c05365d68fb6fa
+      internalID: 8329469523225057804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_158
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 102
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95425aef7acb5942ab7c37d3a9ea89c
+      internalID: -3589560496051281140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: espadas.fw_159
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 71
+        width: 152
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c600c5eae2846b44bb208cc9917d3e1
+      internalID: -9171329566307192099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

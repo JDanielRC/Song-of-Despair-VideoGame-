@@ -1,0 +1,2095 @@
+fileFormatVersion: 2
+guid: c4d0866b01baaa840bb02ad13b8ed3a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2058419418280832621
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_0
+  - first:
+      213: 2989280760979982573
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_1
+  - first:
+      213: -6443033317886404456
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_2
+  - first:
+      213: 3619130810326349621
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_3
+  - first:
+      213: 5655338505817555128
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_4
+  - first:
+      213: -2699209054159627443
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_5
+  - first:
+      213: -8681178741834297896
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_6
+  - first:
+      213: 7064429710268464975
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_7
+  - first:
+      213: 3881336432795020641
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_8
+  - first:
+      213: 1782960941632306959
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_9
+  - first:
+      213: -491816435883466431
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_10
+  - first:
+      213: -7784700906944710016
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_11
+  - first:
+      213: -3874312316659761483
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_12
+  - first:
+      213: 6966803440531298320
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_13
+  - first:
+      213: -274695126555192226
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_14
+  - first:
+      213: -5749486320788738850
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_15
+  - first:
+      213: -6665718146960915278
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_16
+  - first:
+      213: 6751006057272390874
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_17
+  - first:
+      213: 5166984763145981751
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_18
+  - first:
+      213: 4288786965621619172
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_19
+  - first:
+      213: -4576078066945268108
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_20
+  - first:
+      213: 7947456732414697238
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_21
+  - first:
+      213: -9113473581723212036
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_22
+  - first:
+      213: -4159250482686584260
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_23
+  - first:
+      213: -6259026555811894519
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_24
+  - first:
+      213: 5310163964317546653
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_25
+  - first:
+      213: -5657576675813451568
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_26
+  - first:
+      213: -4040858265686177615
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_27
+  - first:
+      213: -3233169181362757290
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_28
+  - first:
+      213: 1198599783423458619
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_29
+  - first:
+      213: 3778009713256239248
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_30
+  - first:
+      213: 924502835614331366
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_31
+  - first:
+      213: -5247071928911708715
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_32
+  - first:
+      213: 3306208195731225642
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_33
+  - first:
+      213: -7183093548345131823
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_34
+  - first:
+      213: 8004058170359258134
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_35
+  - first:
+      213: -1355191715220445951
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_36
+  - first:
+      213: 6840737266735931303
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_37
+  - first:
+      213: -6756512208431177653
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_38
+  - first:
+      213: 5912300636323198348
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_39
+  - first:
+      213: 3230511933645273621
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_40
+  - first:
+      213: -6524911061961750988
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_41
+  - first:
+      213: -1168460055871570017
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_42
+  - first:
+      213: -4288181291537555858
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_43
+  - first:
+      213: 3657339040946941914
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_44
+  - first:
+      213: -2837564919154863989
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_45
+  - first:
+      213: 8138825780992655457
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_46
+  - first:
+      213: 1198019633182879687
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_47
+  - first:
+      213: 3528861040694279024
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_48
+  - first:
+      213: 3511067731129102560
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_49
+  - first:
+      213: -683750243844791314
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_50
+  - first:
+      213: -1755494875030958357
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_51
+  - first:
+      213: 5392644848357348946
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_52
+  - first:
+      213: -2012359971339988391
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_53
+  - first:
+      213: 7130737891785572754
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_54
+  - first:
+      213: 6499732163939288629
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_55
+  - first:
+      213: 1487103810830255118
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_56
+  - first:
+      213: -1038920294165153150
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_57
+  - first:
+      213: 6261552523128075832
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_58
+  - first:
+      213: -3922103259695549954
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_59
+  - first:
+      213: 3886790478554205570
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_60
+  - first:
+      213: 6201608150045156865
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_61
+  - first:
+      213: 6679481681762465874
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_62
+  - first:
+      213: -1404239685641416015
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_63
+  - first:
+      213: -5532327767158114624
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_64
+  - first:
+      213: 7749253209477023216
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_65
+  - first:
+      213: -420942223971822741
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_66
+  - first:
+      213: -1345471973710899937
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_67
+  - first:
+      213: 6196502605886442716
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_68
+  - first:
+      213: 4103034373137498578
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_69
+  - first:
+      213: 3171639278431964478
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_70
+  - first:
+      213: 7987913024749065976
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_71
+  - first:
+      213: 8841600815611815168
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_72
+  - first:
+      213: 2803814579240170195
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_73
+  - first:
+      213: -5737120344520103717
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_74
+  - first:
+      213: 1357774101412717367
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_75
+  - first:
+      213: 3561646840138372628
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_76
+  - first:
+      213: -1427609468965161999
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_77
+  - first:
+      213: 6276825553702933169
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_78
+  - first:
+      213: 4207015409026502203
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_79
+  - first:
+      213: 8181047003590227254
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_80
+  - first:
+      213: -2917630115790365327
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_81
+  - first:
+      213: -4800346093754773388
+    second: Game Boy Advance - Shrek Hassle at the Castle - Donkey_82
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 484
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e0d479c082e9948a6d430882c9018c
+      internalID: 2058419418280832621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 484
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e60a4989b9392d4f94eb660ddf11fca
+      internalID: 2989280760979982573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 484
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6200820591c664a9a724f6b713edf6
+      internalID: -6443033317886404456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 496
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d001e78e8ea98dd4fa2e69bd516cd86c
+      internalID: 3619130810326349621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 434
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6695a5011ae21e7479f3a31fbfbff57a
+      internalID: 5655338505817555128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 434
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29104a342e5c3240906ae140550dabe
+      internalID: -2699209054159627443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 434
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eff4129eada50f4ca37bb87afcfd068
+      internalID: -8681178741834297896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 434
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ad0d4c5514cb348a7929ec927e1435
+      internalID: 7064429710268464975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 434
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12232e4992c2ec94ca0965034a7b7de3
+      internalID: 3881336432795020641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_9
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 434
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b28c5c7862f3864287c0f6a396a65e0
+      internalID: 1782960941632306959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 434
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b520069d337c664daaf837730a79078
+      internalID: -491816435883466431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 390
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812228e86ede02440868cf8a93fe7ccb
+      internalID: -7784700906944710016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 390
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e7070c4a2083149a2be84eb1f72b6d
+      internalID: -3874312316659761483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 390
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af90100616aa8c44faf4ddc109f7f873
+      internalID: 6966803440531298320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_14
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 390
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4986c83d4f8c0994c95709e2bcd0492b
+      internalID: -274695126555192226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 346
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4584f472121664d919131cd28b2df9
+      internalID: -5749486320788738850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 346
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701f4dd5b834cb34d9e49a15b8b60afa
+      internalID: -6665718146960915278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 346
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21af6a85a6a7edb4793ff1e39b70629d
+      internalID: 6751006057272390874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_18
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 346
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe0b0da8c0cd3f4c9352a07ba3d4d63
+      internalID: 5166984763145981751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 297
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69776e13a0d7194f8b83da7785f98ad
+      internalID: 4288786965621619172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 297
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1714ef92b4e473645a51c184851aa72c
+      internalID: -4576078066945268108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_21
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 297
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0078c1a8fee3b5945b24435a0e860f87
+      internalID: 7947456732414697238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 253
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5093d9720c2ac4fa1654f9939dd950
+      internalID: -9113473581723212036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 253
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29c0e0b11318b340b1f4d71f2580ec6
+      internalID: -4159250482686584260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 210
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0c37d9b574c314ebfe74f4aecd3ec6
+      internalID: -6259026555811894519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 210
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0a984c74a1ec54a8a6f2e801c6592d
+      internalID: 5310163964317546653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_26
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 210
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ebcb4f523afb3488a266157b01e9c3
+      internalID: -5657576675813451568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 210
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8122e5c6dda42434a8d138677aef57cd
+      internalID: -4040858265686177615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_28
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 225
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70e035eb5edb3745a57aa3746bf0025
+      internalID: -3233169181362757290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 157
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c57c73543ab75749b3ab9729494223b
+      internalID: 1198599783423458619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_30
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 157
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209c4566ae2506041b60e0552c647b4e
+      internalID: 3778009713256239248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 157
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d03c99b21cd974cab27d5aac40e813
+      internalID: 924502835614331366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_32
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 157
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58268f0aafae0a84db2b95ae3bb4e5fd
+      internalID: -5247071928911708715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_33
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 157
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2672246132dfcb74197b6efc73cdcafa
+      internalID: 3306208195731225642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_34
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 157
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880f565dd0e6d564bbeffca92795c64c
+      internalID: -7183093548345131823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 157
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd308fe0cd3678c49b19b770c04a038a
+      internalID: 8004058170359258134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_36
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 157
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be6be1f2c8edbd49b9cc8dbb4d6fcd2
+      internalID: -1355191715220445951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_37
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 157
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2008bda0345cb6245b9f65f45c8459de
+      internalID: 6840737266735931303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_38
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 108
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7189b6c1316cb9a43bb49c387b412589
+      internalID: -6756512208431177653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_39
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 108
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237a08d8639b91e45b8ae2442d108c35
+      internalID: 5912300636323198348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 108
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbb7ac0d86b5da43b39e008a4ee7171
+      internalID: 3230511933645273621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_41
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 108
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e920fbb4341484eb17bbe8d8b4ad0c
+      internalID: -6524911061961750988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 60
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4945eee37d9af374db292658815008d3
+      internalID: -1168460055871570017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_43
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 60
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4694c0bc4b03a2842a4d2646717f89f1
+      internalID: -4288181291537555858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_44
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 60
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ddf5a35840ffa43a1585c632cfbde7
+      internalID: 3657339040946941914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_45
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 60
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f0e8d209d702c4381632908f2e2bc4
+      internalID: -2837564919154863989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_46
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 60
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120a56d6e829cb94bbcb073fc3bc75e0
+      internalID: 8138825780992655457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_47
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 90
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5641dc3a3077f4199872c7e183bd50
+      internalID: 1198019633182879687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_48
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 60
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe7a612649c8d84d8921ff66c8cae4b
+      internalID: 3528861040694279024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_49
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 91
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f899f9856378f408033e3f728d7b50
+      internalID: 3511067731129102560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_50
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 90
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f31bbe0427f5724ea9e24b7fac7a726
+      internalID: -683750243844791314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_51
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 93
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359a9f73b4dbf514cb5741da248e533a
+      internalID: -1755494875030958357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_52
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 91
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ab359e57743ff4894e60fc55676473
+      internalID: 5392644848357348946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_53
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 92
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832f13d29360fc343b06c0c7028807e1
+      internalID: -2012359971339988391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_54
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 92
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbbcdd58754c2949a49dd10c3e472cf
+      internalID: 7130737891785572754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_55
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 60
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1644e6e42d5cad4f9f8dfaf6f14bc56
+      internalID: 6499732163939288629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_56
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 60
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2857df46efb12f45aa513f413764436
+      internalID: 1487103810830255118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_57
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 92
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8202132450e0d469c24ad0607bb1d7
+      internalID: -1038920294165153150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_58
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 90
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6eceb1a3dc9fd045bd60050a4de430e
+      internalID: 6261552523128075832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_59
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 91
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404a0e82dd1f1eb42b4360c2fe16ce9d
+      internalID: -3922103259695549954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_60
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 91
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7575e6153bb5e1c44a8101568e47164f
+      internalID: 3886790478554205570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_61
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 91
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554d71c4505e7804b9c9d09088149eab
+      internalID: 6201608150045156865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_62
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 92
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1318aff244058a6439b1dab32534cfed
+      internalID: 6679481681762465874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_63
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 60
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af3b2ee41847ed4a89ddba5b386e04c
+      internalID: -1404239685641416015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_64
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 60
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c08d12eac92ddf418e91318e992ee83
+      internalID: -5532327767158114624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_65
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 60
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383c9df3d7ac6e0449e94ea840bdfaaa
+      internalID: 7749253209477023216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_66
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 86
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7f71c355f805240ba52939530b0b36
+      internalID: -420942223971822741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_67
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 86
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec025903afd216848bd64b405cc11e9a
+      internalID: -1345471973710899937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_68
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 89
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222063ea94c4b754bb9e27e17c223edb
+      internalID: 6196502605886442716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_69
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 87
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e3bdab48a4ce749b9a9d6ae18e2dbd
+      internalID: 4103034373137498578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_70
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 83
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557db0e2a7a891f4ea4b2d05fb05f809
+      internalID: 3171639278431964478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_71
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 60
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb8dfe988f02484e8b5a0c6ce5e729e
+      internalID: 7987913024749065976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_72
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 60
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80dea4018a6066429369e760e1d1b4e
+      internalID: 8841600815611815168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_73
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 84
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6a3c2c952d75f49b7099c103e066aa
+      internalID: 2803814579240170195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_74
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 60
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb47e57458a04b4c927c59642502661
+      internalID: -5737120344520103717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_75
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 8
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd2e042695c809498077bc6077002b4
+      internalID: 1357774101412717367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_76
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 8
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d6f86ab2b7f454db192b279ef4c8fc
+      internalID: 3561646840138372628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_77
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 8
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6c3698b86ca32419ccaff138c407dc
+      internalID: -1427609468965161999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_78
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 8
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe6a9c9cb45c7d469e2e3b865228eaa
+      internalID: 6276825553702933169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_79
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 8
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f28c51aa4d8634fad011135fcdf0a9
+      internalID: 4207015409026502203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_80
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 8
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffafed7dc9d69744aadc5a6ab8c03588
+      internalID: 8181047003590227254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_81
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 8
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bda443b747d8c46a96af14d6511643
+      internalID: -2917630115790365327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Shrek Hassle at the Castle - Donkey_82
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 8
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbb0e8ccd8905940a78e71b3ada4574
+      internalID: -4800346093754773388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

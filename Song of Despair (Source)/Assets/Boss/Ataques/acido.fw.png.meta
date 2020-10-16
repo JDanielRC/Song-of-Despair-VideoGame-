@@ -1,0 +1,679 @@
+fileFormatVersion: 2
+guid: 22fa16fe80b497a4ba6af2cdd0f90fc3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8560582179689868780
+    second: acido.fw_0
+  - first:
+      213: 7494790598090418567
+    second: acido.fw_1
+  - first:
+      213: 756306060480048434
+    second: acido.fw_2
+  - first:
+      213: -3833707990553912332
+    second: acido.fw_3
+  - first:
+      213: 2861194477223391548
+    second: acido.fw_4
+  - first:
+      213: 8403617364016550720
+    second: acido.fw_5
+  - first:
+      213: -2098826187002856845
+    second: acido.fw_6
+  - first:
+      213: 2675132786282172509
+    second: acido.fw_7
+  - first:
+      213: -7746857623844350515
+    second: acido.fw_8
+  - first:
+      213: 3949222275174308241
+    second: acido.fw_9
+  - first:
+      213: -1440272028063130309
+    second: acido.fw_10
+  - first:
+      213: -5480830061767862876
+    second: acido.fw_11
+  - first:
+      213: 3598516948416938980
+    second: acido.fw_12
+  - first:
+      213: -5241469051530745101
+    second: acido.fw_13
+  - first:
+      213: -6963681160776439076
+    second: acido.fw_14
+  - first:
+      213: -4223218694663215894
+    second: acido.fw_15
+  - first:
+      213: 7349568432337900837
+    second: acido.fw_16
+  - first:
+      213: 13064165947313397
+    second: acido.fw_17
+  - first:
+      213: -3215265931197593743
+    second: acido.fw_18
+  - first:
+      213: -5342678419647533336
+    second: acido.fw_19
+  - first:
+      213: -2984137640983343728
+    second: acido.fw_20
+  - first:
+      213: -2464434075882707199
+    second: acido.fw_21
+  - first:
+      213: -7540176582289285294
+    second: acido.fw_22
+  - first:
+      213: -9163819227434213268
+    second: acido.fw_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: acido.fw_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 14
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8982adb095ae8b1499d97205b919c94a
+      internalID: 8560582179689868780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido.fw_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 135
+        width: 14
+        height: 66
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad5c5aab09bb0449a29a35032cae837
+      internalID: 7494790598090418567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido.fw_2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 136
+        width: 14
+        height: 65
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccdbfe3a95341c43a8661150705f7ac
+      internalID: 756306060480048434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido.fw_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 134
+        width: 14
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fa2be231dfa4b4fac016fd49707152
+      internalID: -3833707990553912332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido.fw_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 134
+        width: 14
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0a223a830be124182d15a28630bfac
+      internalID: 2861194477223391548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido.fw_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 134
+        width: 14
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a561d296b75f5478c5265137c88e3c
+      internalID: 8403617364016550720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido.fw_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 134
+        width: 14
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac2eb97e3452ad40896f18b33b841a1
+      internalID: -2098826187002856845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido.fw_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 134
+        width: 14
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5acd4e3c1dddd4381615deac02f773
+      internalID: 2675132786282172509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido.fw_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 14
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bba6463f09594d45a926ab4306df5c9
+      internalID: -7746857623844350515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido.fw_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 67
+        width: 14
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aea2279b9333de4b9e43362a90d271d
+      internalID: 3949222275174308241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido.fw_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 67
+        width: 14
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc97dbb99d398c34090a1e307ec7990d
+      internalID: -1440272028063130309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido.fw_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 67
+        width: 14
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91c340734ed1b64ebe5e788b155101b
+      internalID: -5480830061767862876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido.fw_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 67
+        width: 14
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c9ac13ec606c9419c420608ea77890
+      internalID: 3598516948416938980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido.fw_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 67
+        width: 14
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7609bea42e34aa34d9be252ad93af4ee
+      internalID: -5241469051530745101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido.fw_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 67
+        width: 14
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce737588e511fc547b8215f156f69d0e
+      internalID: -6963681160776439076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido.fw_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 67
+        width: 14
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6041ccdbf6b44e41b2cc554f30720e6
+      internalID: -4223218694663215894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido.fw_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 14
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648d5b1744df5d141ad5cf8b7fd3df44
+      internalID: 7349568432337900837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido.fw_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 14
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a586310899603499a985b98436b427
+      internalID: 13064165947313397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido.fw_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 14
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb023d13ee4c3e49869bd98628244d8
+      internalID: -3215265931197593743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido.fw_19
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 14
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ef1a4b3dc081f4d9affb72df122b99
+      internalID: -5342678419647533336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido.fw_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 14
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452c71b6d265eca48bbdbc4c19081585
+      internalID: -2984137640983343728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido.fw_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 14
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a8ba5f88d71a540bc0dc27d2b477c4
+      internalID: -2464434075882707199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido.fw_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 14
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5eb1265c6c1c34894ea45e088d5786
+      internalID: -7540176582289285294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: acido.fw_23
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 14
+        height: 67
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e14f9380b606b40b91cb44e50aaa8a
+      internalID: -9163819227434213268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

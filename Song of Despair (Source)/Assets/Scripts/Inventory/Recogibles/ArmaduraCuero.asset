@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b617672bc1657c84cb334a10f61c7f8b, type: 3}
+  m_Name: ArmaduraCuero
+  m_EditorClassIdentifier: 
+  nombre: Armadura Cuero
+  icono: {fileID: -732020420964698375, guid: 2bb7f81f3a3df2c4f9ac1aac2546c833, type: 3}
+  equipSlot: 1
+  armorModifier: 3
+  damageModifier: 0
+  rangoModifier: 0

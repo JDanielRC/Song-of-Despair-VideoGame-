@@ -1,0 +1,1519 @@
+fileFormatVersion: 2
+guid: 607390ba6e43591448a5d716026a7fc8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2385627806064283670
+    second: follaje_0
+  - first:
+      213: 4655406083254416118
+    second: follaje_1
+  - first:
+      213: 3625964385027158421
+    second: follaje_2
+  - first:
+      213: -7905451555599658881
+    second: follaje_3
+  - first:
+      213: -1262630292458688272
+    second: follaje_4
+  - first:
+      213: -246082798254489466
+    second: follaje_5
+  - first:
+      213: 2476630291960646771
+    second: follaje_6
+  - first:
+      213: -741632909486716430
+    second: follaje_7
+  - first:
+      213: -1457165091194269534
+    second: follaje_8
+  - first:
+      213: 6527689740154781663
+    second: follaje_9
+  - first:
+      213: 7933974556997185420
+    second: follaje_10
+  - first:
+      213: -7822479863180143829
+    second: follaje_11
+  - first:
+      213: -7428446155798655519
+    second: follaje_12
+  - first:
+      213: 7560064766287951106
+    second: follaje_13
+  - first:
+      213: 1592606701481297999
+    second: follaje_14
+  - first:
+      213: 7042246952587104266
+    second: follaje_15
+  - first:
+      213: 1891627875738019363
+    second: follaje_16
+  - first:
+      213: -2788990532910849825
+    second: follaje_17
+  - first:
+      213: 8923087307394187422
+    second: follaje_18
+  - first:
+      213: 5686931116427878584
+    second: follaje_19
+  - first:
+      213: -8690886853726748455
+    second: follaje_20
+  - first:
+      213: 3079235097555488761
+    second: follaje_21
+  - first:
+      213: 2366846904389176017
+    second: follaje_22
+  - first:
+      213: 1843952822701060214
+    second: follaje_23
+  - first:
+      213: -1752459775846721394
+    second: follaje_24
+  - first:
+      213: -5202939249604441431
+    second: follaje_25
+  - first:
+      213: 4423410300902932930
+    second: follaje_26
+  - first:
+      213: 3701438009411605409
+    second: follaje_27
+  - first:
+      213: 7465670416898793083
+    second: follaje_28
+  - first:
+      213: 2756879140268288366
+    second: follaje_29
+  - first:
+      213: -6992525424862227088
+    second: follaje_30
+  - first:
+      213: 4744220348860479424
+    second: follaje_31
+  - first:
+      213: 8321344705637541738
+    second: follaje_32
+  - first:
+      213: -3109034106720631350
+    second: follaje_33
+  - first:
+      213: 3692559869371577752
+    second: follaje_34
+  - first:
+      213: 2839413229101089889
+    second: follaje_35
+  - first:
+      213: 6818419400971124083
+    second: follaje_36
+  - first:
+      213: -5430965237645742615
+    second: follaje_37
+  - first:
+      213: 6376988397074187334
+    second: follaje_38
+  - first:
+      213: -8086598547390938117
+    second: follaje_39
+  - first:
+      213: 4409424612535040456
+    second: follaje_40
+  - first:
+      213: 3446449787757571503
+    second: follaje_41
+  - first:
+      213: 1025973699386142480
+    second: follaje_42
+  - first:
+      213: 7876277230760587608
+    second: follaje_43
+  - first:
+      213: -5001537222720466400
+    second: follaje_44
+  - first:
+      213: -6346527304577475880
+    second: follaje_45
+  - first:
+      213: 6032733056952178342
+    second: follaje_46
+  - first:
+      213: 3914953022273587364
+    second: follaje_47
+  - first:
+      213: 3211212632129924072
+    second: follaje_48
+  - first:
+      213: 4728147275860621555
+    second: follaje_49
+  - first:
+      213: -4532876714963393654
+    second: follaje_50
+  - first:
+      213: 1441306429714902814
+    second: follaje_51
+  - first:
+      213: -1743976693122233155
+    second: follaje_52
+  - first:
+      213: -2545505981589543510
+    second: follaje_53
+  - first:
+      213: -4600211813576047640
+    second: follaje_54
+  - first:
+      213: 117927949338880230
+    second: follaje_55
+  - first:
+      213: 6035255069294737300
+    second: follaje_56
+  - first:
+      213: 6335147196656763540
+    second: follaje_57
+  - first:
+      213: -1218118320285812705
+    second: follaje_58
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: follaje_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 793
+        width: 276
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96c192c09ff0fd44a33d797ce9da104
+      internalID: 2385627806064283670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 640
+        width: 179
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb2a94c79d642949bd89be6cea9555e
+      internalID: 4655406083254416118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 648
+        width: 219
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374a4ba2f7d256846ba194a638ed9d24
+      internalID: 3625964385027158421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 822
+        width: 279
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385cbcebfa6349842a5f50bd3f2481ae
+      internalID: -7905451555599658881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_4
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 835
+        width: 210
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab1ec57a371a1244ae451829bbba85a
+      internalID: -1262630292458688272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_5
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 861
+        width: 242
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714cd0169c6003143aa64ffd45fcd137
+      internalID: -246082798254489466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_6
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 718
+        width: 292
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1647c44899a3546babce26fa3eb2d3
+      internalID: 2476630291960646771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_7
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 897
+        width: 216
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e1b3297c95de949b1b2952d829749c
+      internalID: -741632909486716430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_8
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 876
+        width: 190
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ed81c5ebaf35c47bf41a4e11c0f852
+      internalID: -1457165091194269534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_9
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 858
+        width: 205
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5925ea29a0d5ef241a782405960c0746
+      internalID: 6527689740154781663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_10
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 849
+        width: 206
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaa994482cec2d4581b4466edb6d8f0
+      internalID: 7933974556997185420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_11
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 707
+        width: 275
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078764bc5b9d0a140a6e680170fc1836
+      internalID: -7822479863180143829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_12
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 700
+        width: 372
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b75dd7c0a0f6984193ff10706c79d81
+      internalID: -7428446155798655519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_13
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 716
+        width: 179
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9dd18b3e5abf94385c455453832b01
+      internalID: 7560064766287951106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_14
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 644
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8007ec2c7237f45a997489f510b50f
+      internalID: 1592606701481297999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_15
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 631
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dca407aea1f4e24492d3ddc01d75b84
+      internalID: 7042246952587104266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_16
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 627
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db91e6329793fee44868327542fc4073
+      internalID: 1891627875738019363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_17
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 629
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0fa2851d3bb774e908562a93476f6f
+      internalID: -2788990532910849825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_18
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 612
+        width: 120
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb4a630be0d3754d8f1f40a97595b60
+      internalID: 8923087307394187422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_19
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 604
+        width: 120
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc2dc50a0114db448ff5180a92e26a7
+      internalID: 5686931116427878584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_20
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 538
+        width: 101
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318ad70a9c940c642a2b306651c0e905
+      internalID: -8690886853726748455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_21
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 524
+        width: 127
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ede19893c9974542a00d75b904a586a
+      internalID: 3079235097555488761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_22
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 526
+        width: 148
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b1aa7b3630ebf4d9206e5541efacb0
+      internalID: 2366846904389176017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_23
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 666
+        width: 166
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88bfbf92e6c2b242ac382a6ee82bef9
+      internalID: 1843952822701060214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_24
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 512
+        width: 151
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9a19d2fecb65c4d9a279aa94bf2d98
+      internalID: -1752459775846721394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_25
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 291
+        width: 336
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf2bc4c427dcf949873f44a8ab6031b
+      internalID: -5202939249604441431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_26
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 465
+        width: 247
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1584dbf20ac057541b976429c0940f21
+      internalID: 4423410300902932930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_27
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 468
+        width: 247
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d014a46fbca26941ae33253ee2450de
+      internalID: 3701438009411605409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_28
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 469
+        width: 247
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ec95b176bc9ce48a8ffd4569392af0
+      internalID: 7465670416898793083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_29
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 285
+        width: 268
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699c96351110e5740a84cd0dbd4e2c81
+      internalID: 2756879140268288366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_30
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 285
+        width: 266
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d548a3b792ed4004db94b4b884211a91
+      internalID: -6992525424862227088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_31
+      rect:
+        serializedVersion: 2
+        x: 1626
+        y: 283
+        width: 268
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1eda5de9adea9b468b7da39fb593d78
+      internalID: 4744220348860479424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_32
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 130
+        width: 57
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3984d0a260ae146911bfed58d8b1a9
+      internalID: 8321344705637541738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_33
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 161
+        width: 47
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e89eabefd353004a8a2f31c367a6cb7
+      internalID: -3109034106720631350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 194
+        width: 41
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1256a7da4c9b574cbdadb97e455f4bb
+      internalID: 3692559869371577752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_35
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 179
+        width: 28
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed69d05b76755644f8643b056ab8dff8
+      internalID: 2839413229101089889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_36
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 198
+        width: 37
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84de64071b8e46d43a67a6cf84ad2cff
+      internalID: 6818419400971124083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_37
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 193
+        width: 35
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f3e6ac906507346bc7d938b59bdd56
+      internalID: -5430965237645742615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_38
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 201
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a35d2a913d321b4dadc1666acc45e3c
+      internalID: 6376988397074187334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_39
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 194
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf152251fcab32d4689b7c2bc47df83e
+      internalID: -8086598547390938117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_40
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 190
+        width: 25
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1842061fbbb8ea64188d4e5170c2f6cd
+      internalID: 4409424612535040456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_41
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 190
+        width: 61
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21dee48c040a4844b91e4b09b510725
+      internalID: 3446449787757571503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_42
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 185
+        width: 58
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a75295f5c497e147bb0509cfb936e8b
+      internalID: 1025973699386142480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_43
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 193
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1be52be6684844d912815fe862bdce
+      internalID: 7876277230760587608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_44
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 193
+        width: 47
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d5f5903607c07498ca4d7718e0eec9
+      internalID: -5001537222720466400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_45
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 202
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2266f2c41550cce4199b2ef296a1c643
+      internalID: -6346527304577475880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_46
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 194
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16b378213402684c90dd6df19184539
+      internalID: 6032733056952178342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_47
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 242
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe657fc0581102143b32fa0a0a98a74e
+      internalID: 3914953022273587364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_48
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 192
+        width: 87
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0a01da6e2de2f46b3231acfcad5b76
+      internalID: 3211212632129924072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_49
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 80
+        width: 91
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718fc3ca9c17a3741ab6552c10648404
+      internalID: 4728147275860621555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_50
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 87
+        width: 89
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69e409495bdcfa4c8af197869a732b7
+      internalID: -4532876714963393654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_51
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 91
+        width: 69
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d8dbd9292f43f458c667526da52201
+      internalID: 1441306429714902814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_52
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 95
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e85890648fceb64a913dde474cd5599
+      internalID: -1743976693122233155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_53
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 97
+        width: 53
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d63966f5514554c8eb3db291283545
+      internalID: -2545505981589543510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_54
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 98
+        width: 53
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9fbebc3f603d84cbeff57cec489698
+      internalID: -4600211813576047640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_55
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 85
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d556a60cc6f629e4ea7f8a1062d79a1a
+      internalID: 117927949338880230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_56
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 92
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1833b4ae2e2fb0e408f8b99fb8f3e15e
+      internalID: 6035255069294737300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_57
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 128
+        width: 150
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a54755a7e49a944293d9032583ccffa
+      internalID: 6335147196656763540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: follaje_58
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 28
+        width: 167
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e5c7ec1fbfb2e4d8cabef189222e7c
+      internalID: -1218118320285812705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
